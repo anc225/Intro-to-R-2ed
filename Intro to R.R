@@ -1,5 +1,6 @@
 # R script to accompany Intro to R
 # Copy for CerminaraAngelo 2021
+# Written by Angelo Cerminara
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
